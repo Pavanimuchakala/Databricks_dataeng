@@ -8,7 +8,14 @@ data = [
     ["Alice", 25],
     ["Bob", 30],
     ["Charlie", 35],
-    ["John",37]
+    ["John",37],
+    ["Robert",39],
+    ["Sara",40],
+    ["Maria",41],
+    ["Pedro",42],
+    ["Ana",43],
+    ["Carlos",44],
+    ["Laura",45]
 ]
 
 # 2. Define your column names
