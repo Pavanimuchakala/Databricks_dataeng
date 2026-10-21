@@ -1,0 +1,11 @@
+{"id":1,
+"name":"Abc",
+"address": {
+  "permanent":"abc road, India",
+  "temporary":"bhg road, AP"},
+  "products":[
+    "car",
+    "jeep",
+    "bus"
+  ]
+}
