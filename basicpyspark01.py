@@ -7,7 +7,8 @@ spark = SparkSession.builder.appName("CreateDF").getOrCreate()
 data = [
     ["Alice", 25],
     ["Bob", 30],
-    ["Charlie", 35]
+    ["Charlie", 35],
+    ["John",37]
 ]
 
 # 2. Define your column names
